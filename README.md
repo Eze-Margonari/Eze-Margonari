@@ -1,4 +1,4 @@
-# ! Hola, mi nombre es Ezequiel Margonari 👋
+#  Hola, mi nombre es Ezequiel Margonari 👋
 ### Estudiante de programación full-stack
 
 ![https://github.com/Eze-Margonari]
